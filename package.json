@@ -1,0 +1,15 @@
+{
+  "name": "npm-deom",
+  "version": "1.0.0",
+  "description": "NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash Kumar Pal",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.11.3",
+    "underscore": "^1.12.0"
+  }
+}
